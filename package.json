@@ -1,0 +1,21 @@
+{
+  "name": "@efox/emp-vue2-in-vue3",
+  "version": "1.0.0",
+  "description": "Vue2 component using in Vue3",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efoxTeam/emp.git",
+    "directory": "packages/emp-converter/vue2-in-vue3"
+  },
+  "author": "flyyuan",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "rollup": "^2.33.2",
+    "rollup-plugin-terser": "^7.0.2"
+  }
+}
