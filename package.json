@@ -1,5 +1,5 @@
 {
-  "name": "@efox/emp-vue2-in-vue3",
+  "name": "@efox/emp-vuett",
   "version": "1.0.0",
   "description": "Vue2 component using in Vue3",
   "main": "dist/main.js",
@@ -8,8 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/efoxTeam/emp.git",
-    "directory": "packages/emp-converter/vue2-in-vue3"
+    "url": "git+https://github.com/efoxTeam/emp-vuett.git"
   },
   "author": "flyyuan",
   "license": "MIT",

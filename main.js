@@ -42,4 +42,4 @@ function Vue2InVue3(WrappedComponent, id) {
   }
 }
 
-export default Vue2InVue3
+export { Vue2InVue3 }

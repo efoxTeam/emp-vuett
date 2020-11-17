@@ -1,11 +1,11 @@
-# emp-vue2-in-vue3
+# emp-vuett
 
 > Use the `Vue2` component on `Vue3` to seamlessly integrate `Vue3` `Vue2`👯
 
 ## 📦 Installation
-`yarn add @efox/emp-vue2-in-vue3`
+`yarn add @efox/emp-vuett`
 or
-`npm i @efox/emp-vue2-in-vue3`
+`npm i @efox/emp-vuett`
 
 ## 👨‍💻Usage
 
@@ -34,7 +34,7 @@ or
 // Vue2 components Content
 import Content from "@v2b/Content";
 // use Vue2InVue3
-import Vue2InVue3 from "emp-vue2-in-vue3";
+import {Vue2InVue3} from "emp-vuett";
 // Pass in Vue2 component and empty element id to Vue2InVue3
 const ContentInVue3 = Vue2InVue3(Content, "content");
 
